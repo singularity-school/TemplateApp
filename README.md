@@ -13,7 +13,8 @@ DB_USER
 DB_PASSWORD
 ```
 In Intellij you can set it in "Edit Configuration" tab:
-![Screenshot_1732.png](..%2F..%2Fscreenshots%2FScreenshot_1732.png)
+![Screenshot_1732](https://github.com/singularity-school/TemplateApp/assets/144876386/fbdb4679-3a35-487d-b63f-2a070f8e11be)
+
 
 ### Token signing key
 
